@@ -461,7 +461,6 @@ print(Ec,"N")
 conso = Ec/(ISP)
 print(conso,"kg/s")
 
-#print("total conso : ")
 ```
 
     679.2576 N
