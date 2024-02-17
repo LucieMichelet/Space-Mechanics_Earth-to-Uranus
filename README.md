@@ -1,9 +1,9 @@
 # Space-Mechanics
-# Project : Eart to Uranus
-
 
 On this project we worked on interplanetary transfer using Hohmann Transfer. It learned us how to use a planet gravitational attraction as a tool to increase the velocity of a satellite. We also saw how to correct the parameters of an orbit : inclinaison, eccentricity, perigee/apogee. 
 This project is Pre-Mission study. We calculated the best trajectory to go from Earth to Uranus.
+
+# Project : Eart to Uranus
 
 #### Students : Hugo LANCERY - Lucie MICHELET - ELSS
 
